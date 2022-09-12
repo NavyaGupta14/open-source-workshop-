@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "E:/Data Structures"
+	},
+	{
+		"path": "E:/c++"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp",
+      "new": "cpp",
+      "ostream": "cpp",
+      "*.tcc": "cpp",
+      "random": "cpp",
+      "array": "cpp",
+      "string": "cpp",
+      "type_traits": "cpp"
+    }
+  }
+}
